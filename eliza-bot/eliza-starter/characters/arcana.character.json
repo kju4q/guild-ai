@@ -1,7 +1,7 @@
 {
   "name": "Eliza",
   "plugins": [],
-  "clients": ["discord"],
+  "clients": ["discord", "twitter"],
   "modelProvider": "openai",
   "settings": {
     "secrets": {}
